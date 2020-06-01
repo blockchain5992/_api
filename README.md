@@ -6,7 +6,7 @@ requirements:Node.js,Express.js,mongodb ,git ,npm,postman.
 
 imported libraries:Mongoose,Express,cors,body-parser nodemon with the help of npm install .
 
-running the api:npm start  which is autometically start the server and run.
+running the api:npm start  which is autometically start the server and run.we will send data to the api with the help of postman .
 
 
 GET Routes
